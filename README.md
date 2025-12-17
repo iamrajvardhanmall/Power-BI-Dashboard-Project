@@ -111,5 +111,3 @@ This project is available for:
 
 💡 **Tip**: For the complete interactive experience, download and open the `.pbix` file in Power BI Desktop.
 ![Detailed Analysis](Screenshot%202025-12-18%20014855.png)
-
-## 📁 Repository Structure
