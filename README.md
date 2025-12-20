@@ -20,7 +20,7 @@ Since this is a Power BI project (.pbix file), you cannot run it directly on Git
 Here's what the dashboard looks like:
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshot%202025-12-18%20014840.png)
+![Dashboard Overview](Customer Fight Acitivity Page(Page 1))
 
 
 ## 📊 Dashboard Features
