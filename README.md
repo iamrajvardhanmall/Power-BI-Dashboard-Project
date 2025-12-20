@@ -110,4 +110,4 @@ This project is available for:
 **Note**: This dashboard requires Power BI Desktop to run – download it from [Microsoft](https://powerbi.microsoft.com/desktop/)
 
 💡 **Tip**: For the complete interactive experience, download and open the `.pbix` file in Power BI Desktop.
-![Detailed Analysis](Screenshot%202025-12-18%20014855.png)
+![Detailed Analysis](Customer Fight Activity page(Page 1).png)
